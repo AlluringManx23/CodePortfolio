@@ -1,0 +1,14 @@
+C:\Users\warja\source\repos\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.exe.config
+C:\Users\warja\source\repos\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.exe
+C:\Users\warja\source\repos\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.pdb
+C:\Users\warja\source\repos\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.csprojAssemblyReference.cache
+C:\Users\warja\source\repos\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\warja\source\repos\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.exe
+C:\Users\warja\source\repos\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.pdb
+C:\Users\warja\Documents\GitHub\CodePortfolio\C#\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.exe.config
+C:\Users\warja\Documents\GitHub\CodePortfolio\C#\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.exe
+C:\Users\warja\Documents\GitHub\CodePortfolio\C#\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.pdb
+C:\Users\warja\Documents\GitHub\CodePortfolio\C#\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.csprojAssemblyReference.cache
+C:\Users\warja\Documents\GitHub\CodePortfolio\C#\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\warja\Documents\GitHub\CodePortfolio\C#\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.exe
+C:\Users\warja\Documents\GitHub\CodePortfolio\C#\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.pdb
